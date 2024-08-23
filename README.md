@@ -1,1 +1,1 @@
-boot.dev project called bookbot :P
+BookBot is my first project! (Kind of)
